@@ -7,12 +7,15 @@
     "name": "Tev Kaber",
     "email": "tev@tev.net"
   },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/tev/GameKanban.git"
+  },
   "licenses": [
     {
       "type": "MIT"
     }
   ],
-  "repository": "",
   "version": "0.0.1",
   "dependencies": {},
   "devDependencies": {
