@@ -1,0 +1,27 @@
+{
+  "name": "GameKanban",
+  "version": "0.0.1",
+  "authors": [
+    "Tev Kaber <tev@tev.net>"
+  ],
+  "description": "Kanban board for choosing which games to play next",
+  "main": "app/index.html",
+  "keywords": [
+    "Kanban",
+    "Steam"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.1.*",
+    "angular": "~1.2.16",
+    "angular-animate": "~1.2.16"
+  }
+}
