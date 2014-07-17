@@ -1,0 +1,23 @@
+/*------------------------------------------------------------------------------------------------------------------------
+ @package: GameKanban
+
+ @author: Tev Kaber
+
+ =============================================================================
+ Filename: main.scss
+ =============================================================================
+ This file is responsible for all styles  - styles should be compiled using compass and sass.
+ --------------------------------------------------------------------------------------------------------------------- */
+@import "compass/css3";
+@import "partials/variables";
+
+body {
+	background: $body-background;
+	font-family: $base-font-family;
+	font-size: $base-font-size;
+	line-height: $base-line-height;
+  color: $text-color;
+  max-height: 100%;
+  margin: 0;
+  padding: 0;
+}
